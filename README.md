@@ -48,7 +48,7 @@ To handle the scale of the **Open Food Facts Global Database**, I developed a ro
 ---
 ## B. Project Links
 * **Interactive Dashboard:** [View Live Market Analysis](https://app.powerbi.com/view?r=eyJrIjoiNmViZGJhNGMtZDIxYS00NDgyLWIwOTAtYzllZjZiMGJiNzQwIiwidCI6Ijk0MWJiZjVmLWYyYzAtNDg3NS1hMjRjLTY5MDc4NjVkMjUxYSIsImMiOjh9)
-* **Presentation Deck:** [View Strategic Slide Deck](LINK_TO_YOUR_GAMMA_PRESENTATION)
+* **Presentation Deck:** [View Strategic Slide Deck]([LINK_TO_YOUR_GAMMA_PRESENTATION](https://github.com/intelcorei13/Market-Gap-Analysis/blob/main/Market-Gap-Analysis-Presentation%20PDF.pdf))
 * **Jupyter Notebook:** [View Data Engineering Code](./Market_Gap_Analysis.ipynb)
 
 **Author:** Christian Sekpe 
