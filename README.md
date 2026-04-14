@@ -9,6 +9,11 @@ This project identifies a "Blue Ocean" opportunity in the UK snack market by ana
 
 ---
 
+## Dashboard Preview
+![Market Gap Analysis Dashboard](./Market_Gap_Analysis_Page_1.png)
+![Market Gap Analysis Dashboard](./Market_Gap_Analysis_Page_2.png)
+*Interactive Power BI Dashboard: Visualizing the High-Protein/Low-Sugar 'Blue Ocean'.*
+
 ## Technical Methodology
 To handle the scale of the **Open Food Facts Global Database**, I developed a robust data engineering pipeline:
 
